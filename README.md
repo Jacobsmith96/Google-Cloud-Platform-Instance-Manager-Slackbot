@@ -1,6 +1,6 @@
 # GCE Instance Manager Slack bot
 
-This script is used to run a Slack bot that coordinates with Google Cloud Engine to manage shutdown of instances. It works well as a crontab job scheduled on an always-on GCE instance (f1-micro). 
+This script is used to run a Slack bot that coordinates with Google Cloud Engine to manage shutdown of instances. It works well as a cron job scheduled on an always-on GCE instance (f1-micro). 
 
 Depends on: 
 
