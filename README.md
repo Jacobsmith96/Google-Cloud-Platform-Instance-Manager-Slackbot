@@ -38,5 +38,5 @@ Run with `python gcp_shutdown.py`.
 
 ### Example
 
-![alt text](./pics/slackshot.png)
+![alt text](pics/slackshot.png)
 
