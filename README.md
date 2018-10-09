@@ -35,3 +35,8 @@ Modify the `projectID` variable to be your GCP project's ID.
 ### Run the script
 
 Run with `python gcp_shutdown.py`.
+
+### Example
+
+![alt text](./pics/slackshot.png)
+
